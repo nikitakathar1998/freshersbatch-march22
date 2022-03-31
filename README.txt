@@ -13,3 +13,4 @@ This file is also contain the css data
 This is also contain the css file data
 >>>>>>> css-assignments.
 >>>>>>> css-assignments
+javascripts 
